@@ -1,0 +1,7 @@
+# Ignore node stuff
+
+node_modules
+
+
+# Ignore keys
+*.pem

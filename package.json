@@ -1,0 +1,23 @@
+{
+  "name": "fldrr-jwt-keytests",
+  "version": "1.0.0",
+  "description": "Test's how NPM's jsonwebtoken library accepts a set of keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Folderr/jwt-keytests.git"
+  },
+  "type": "module",
+  "author": "Aervyon <aervy@aervyon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Folderr/jwt-keytests/issues"
+  },
+  "homepage": "https://github.com/Folderr/jwt-keytests#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
